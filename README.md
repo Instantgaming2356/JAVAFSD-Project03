@@ -95,19 +95,19 @@ Following requirements should be met:
 
 These are the different controllers that are used to manage the data in backend.
 
-<img alt = "Admin Controller" src = "https://github.com/Instantgaming2356/JAVAFSD-Project02/blob/master/Images/Screenshot%20(2110).png">
+<img alt = "Admin Controller" src = "https://github.com/Instantgaming2356/JAVAFSD-Project02/blob/master/Images/Screenshot(2110).png">
 
-<img alt = "Customer Controller" src = "https://github.com/Instantgaming2356/JAVAFSD-Project02/blob/master/Images/Screenshot%20(2111).png">
+<img alt = "Customer Controller" src = "https://github.com/Instantgaming2356/JAVAFSD-Project02/blob/master/Images/Screenshot(2111).png">
  
-<img alt = "Product Controller" src = "https://github.com/Instantgaming2356/JAVAFSD-Project02/blob/master/Images/Screenshot%20(2112).png">
+<img alt = "Product Controller" src = "https://github.com/Instantgaming2356/JAVAFSD-Project02/blob/master/Images/Screenshot(2112).png">
 
-<img alt = "Purchased Product Controller" src = "https://github.com/Instantgaming2356/JAVAFSD-Project02/blob/master/Images/Screenshot%20(2113).png">
+<img alt = "Purchased Product Controller" src = "https://github.com/Instantgaming2356/JAVAFSD-Project02/blob/master/Images/Screenshot(2113).png">
 
-<img alt = "User Controller" src = "https://github.com/Instantgaming2356/JAVAFSD-Project02/blob/master/Images/Screenshot%20(2114).png">
+<img alt = "User Controller" src = "https://github.com/Instantgaming2356/JAVAFSD-Project02/blob/master/Images/Screenshot(2114).png">
 
 This is New Image of the contents in the Database showing One-To-Many Relations.
 
-<img alt = "Database Screen" src = "https://github.com/Instantgaming2356/JAVAFSD-Project02/blob/master/Images/Screenshot%20(2109).png">
+<img alt = "Database Screen" src = "https://github.com/Instantgaming2356/JAVAFSD-Project02/blob/master/Images/Screenshot(2109).png">
 
 1. User will have three choice to perform certain operations
 
